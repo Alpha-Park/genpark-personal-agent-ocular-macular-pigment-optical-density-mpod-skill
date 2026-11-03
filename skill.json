@@ -1,0 +1,24 @@
+{
+  "name": "genpark-personal-agent-ocular-macular-pigment-optical-density-mpod-skill",
+  "version": "1.0.0",
+  "description": "Calculates Foveal Center Macular Pigment Optical Density (MPOD in du), Spatial Profile Decay, Macular Pigment Volume (MPV), and AMD photoprotection level.",
+  "author": "GenPark Ecosystem",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "ophthalmology",
+    "optometry",
+    "mpod",
+    "macular-pigment",
+    "lutein",
+    "zeaxanthin",
+    "amd",
+    "zero-dependency"
+  ],
+  "main": "client.py",
+  "mcp_server": "mcp_server.py"
+}
